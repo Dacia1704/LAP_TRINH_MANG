@@ -11,8 +11,8 @@ import java.io.Serializable;
  * @author duong
  */
 public class Product implements Serializable{
-    private static final long serialVersionUID = 20161107L;
-
+//    private static final long serialVersionUID = 20161107L;
+    private static final long serialVersionUID = 20161107;
     public String id;
     public String code;
     public String name;
